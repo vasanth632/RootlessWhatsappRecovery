@@ -2,7 +2,7 @@
 
 ABOUT THE PROJECT: 
 
-This script retrieves the WhatsApp database file and the key file without rooting the Android device. This is done by installing the custom build WhatsApp version called Legacy WhatsApp and uninstalling the previously installed genuine WhatsApp. This script was build under the resources provided at the *Kerala Security Audit and Assurance Center (KSAAC)*. Extended thanks to the support by the KSAAC team. 
+This script retrieves the WhatsApp database file and the key file without rooting the Android device. This is done by installing the custom build WhatsApp version called Legacy WhatsApp and uninstalling the previously installed genuine WhatsApp. This script was build under the resources provided at the _Kerala Security Audit and Assurance Center (KSAAC)_. Extended thanks to the support by the KSAAC team. 
 
 -----------------------------------------------------------------------------------------------------
 
